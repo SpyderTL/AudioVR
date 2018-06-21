@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs
+/ConsoleVR/bin/Debug
+/ConsoleVR/obj
+/AudioVR/bin/Debug
+/AudioVR/obj/Debug
